@@ -7,3 +7,4 @@ requests==2.33.1
 beautifulsoup4==4.14.3
 pypdf==6.9.2
 duckduckgo-search==5.3.1
+ddgs==9.12.1
